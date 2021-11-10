@@ -12,7 +12,7 @@ def load_data(num_samples, num_features):
     # TODO add function argument for random_state and default to 42
     # TODO return X, y 
     X, y = make_classification(n_samples=num_samples, n_features=num_features, n_informative=2, n_redundant=0)
-    return 0
+    return 1
 
 def model():
     # create the model instance and return 
