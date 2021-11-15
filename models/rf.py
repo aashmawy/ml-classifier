@@ -27,6 +27,3 @@ def model():
 # TODO call model
 # TODO fit the model
 # TODO predict for the following test ([[0, 0, 0, 0]])
-x = 2
-x += 2
-print(x)
