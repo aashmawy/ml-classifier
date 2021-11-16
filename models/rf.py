@@ -23,8 +23,8 @@ def model():
     return model_instance
 
 
-def new_feature():
-    print('this is a new feature')
+def new_experimental_feature():
+    print('something new')
 
 
 # TODO call load_data
