@@ -23,16 +23,6 @@ def model():
     return model_instance
 
 
-<<<<<<< HEAD
-
-=======
-def new_experimental_feature():
-    print('something new')
-
-
-def newer_feature_again():
-    print('something else which is also new')
->>>>>>> new_feature
 
 
 # TODO call load_data
