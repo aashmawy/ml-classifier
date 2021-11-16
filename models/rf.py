@@ -31,6 +31,10 @@ def newer_feature_again():
     print('something else which is also new')
 
 
+def something_else_new():
+    print('something else')
+
+
 # TODO call load_data
 # TODO call model
 # TODO fit the model
