@@ -14,7 +14,7 @@ def load_data(num_samples, num_features):
     X, y = make_classification(n_samples=num_samples, n_features=num_features, n_informative=2, n_redundant=0)
     return 0
 
-def model():
+def model(random_state=42):
     # create the model instance and return 
     # TODO add function argument for random_state and default to 42
     # TODO add function argument for max_depth and default to 5
