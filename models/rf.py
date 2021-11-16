@@ -16,7 +16,7 @@ def load_data(num_samples, num_features):
 
 def model():
     # create the model instance and return 
-    # TODO add function argument for random_state and default to 42
+    RANDOM_STATE = 42
     # TODO add function argument for max_depth and default to 5
     # TODO add function argument for n_estimators and default to 10
     model_instance = RandomForestClassifier(max_depth=2, random_state=0)
