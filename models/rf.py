@@ -25,6 +25,10 @@ def model():
 
 
 
+def something_else_new():
+    print('something else')
+
+
 # TODO call load_data
 # TODO call model
 # TODO fit the model
