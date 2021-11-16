@@ -27,6 +27,10 @@ def new_experimental_feature():
     print('something new')
 
 
+def newer_feature_again():
+    print('something else which is also new')
+
+
 # TODO call load_data
 # TODO call model
 # TODO fit the model
