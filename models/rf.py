@@ -23,8 +23,6 @@ def model():
     return model_instance
 
 
-
-
 def something_else_new():
     print('something else')
 
