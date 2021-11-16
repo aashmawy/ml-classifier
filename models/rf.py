@@ -10,7 +10,7 @@ from sklearn.datasets import make_classification
 def load_data(num_samples, num_features):
     # create classification data and returns data 
     # TODO add function argument for random_state and default to 42
-    # TODO return X, y 
+    return(X, y)
     X, y = make_classification(n_samples=num_samples, n_features=num_features, n_informative=2, n_redundant=0)
     return 0
 
