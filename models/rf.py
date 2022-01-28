@@ -22,6 +22,8 @@ def model(random_state=42):
     model_instance = RandomForestClassifier(max_depth=2, random_state=0)
     return model_instance
 
+def new_feature():
+    print('this is a new feature')
 
 # TODO call load_data
 # TODO call model
