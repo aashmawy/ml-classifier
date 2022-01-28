@@ -23,12 +23,6 @@ def model(random_state=42):
     return model_instance
 
 
-def something_else_new():
-    print('something else')
-
-def something_completelely_different():
-    print("something_completely_different")
-
 # TODO call load_data
 # TODO call model
 # TODO fit the model
