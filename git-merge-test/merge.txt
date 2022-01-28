@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-this is main
-main append
-=======
-this is dev
->>>>>>> dev
