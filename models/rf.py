@@ -29,3 +29,5 @@ def new_feature():
 # TODO call model
 # TODO fit the model
 # TODO predict for the following test ([[0, 0, 0, 0]])
+
+# Comment by Eleni
