@@ -25,6 +25,9 @@ def model(random_state=42):
 def new_feature():
     print("new feature")
 
+def additional_feature():
+    print("additional feature")
+
 # TODO call load_data
 # TODO call model
 # TODO fit the model
