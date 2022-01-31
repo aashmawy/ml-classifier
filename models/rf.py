@@ -28,6 +28,9 @@ def model(random_state=42):
 def new_feature():
     print("new feature")
 
+def print_statement():
+    print('Contributer: Azadeh on new_feture Branch')       
+
 # TODO call load_data
 # TODO call model
 # TODO fit the model
