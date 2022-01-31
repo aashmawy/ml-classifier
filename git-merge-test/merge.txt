@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 this is main
 main append
 =======
