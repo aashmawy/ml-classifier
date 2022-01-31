@@ -23,7 +23,6 @@ def model(random_state=42):
     return model_instance
 
 def new_feature():
-    print('New Feature')
 
 # TODO call load_data
 # TODO call model
